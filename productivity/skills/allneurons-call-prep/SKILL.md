@@ -1,5 +1,14 @@
 ---
 name: "allneurons-call-prep"
+description: "Before an external call — on demand for one call or all of them, or as a weeknight scheduled task (Monday through Friday only, never Saturday or Sunday) that bulk-prepares tomorrow's external meetings: identifies the account and owner, pulls relationship history from CRM/email/chat/docs, checks recent public signal, and writes a 1-2 page Word brief per meeting — attendees, where things stand, objective, discovery questions, sourced citations. Every run always ends by emailing the user one accurate summary of that run (never anyone else). Auto-detects whatever's connected (calendar+email, chat, CRM, drive, ticketing). Use when the user asks to prep for a call, get ready for a meeting, brief them on an account, wants tomorrow's meetings prepped in bulk, or asks 'who am I talking to' — even without naming this skill. Also invoked as 'AllNeurons Call Prep'."
+---
+
+
+## Context
+
+
+A calendar invite tells you a name and a time. It doesn't tell you what this account cares about right now, what's already been promised, what changed at their company last week, or what a good outcome for this specific call actually looks like. Call Prep is the difference between walking in cold and walking in like you've been thinking about this account all week — even when the call is five minutes away and you're coming out of the last one.---
+name: "allneurons-call-prep"
 description: "Before an external call — on demand for one call or all of them, or as a weeknight scheduled task (Monday through Friday only, never Saturday or Sunday) that bulk-prepares tomorrow's external meetings: identifies the account and owner, pulls relationship history from CRM/email/chat/docs, checks recent public signal, and writes a 1-2 page Word brief per meeting — attendees, where things stand, objective, discovery questions, sourced citations. Every run always ends by emailing the user one accurate summary of that run (never anyone else). Auto-detects whatever's connected (calendar+email, chat, CRM, drive, ticketing). Use when the user asks to prep for a call, get ready for a meeting, brief them on an account, wants tomorrow's meetings prepped in bulk, or asks \"who am I talking to\" — even without naming this skill. Also invoked as \"AllNeurons Call Prep\"."
 ---
 
